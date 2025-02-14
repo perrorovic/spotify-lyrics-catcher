@@ -13,6 +13,6 @@ Get the required python package:
 
     pip install selenium pywinauto psutil
 
-Get WebDriver for Edge and make sure EdgeWebDriver have the same version with Edge browser [EdgeWebDriver is included in here as per version 127.0.2651.86 (Official build) (64-bit)]
+Get WebDriver for Edge and make sure EdgeWebDriver have the same version with Edge browser [EdgeWebDriver is included in here as per version 133.0.3065.59 (Official build) (64-bit)]
 
 Run the program to catch your Spotify song's lyrics
